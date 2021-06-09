@@ -10,3 +10,4 @@
 - save notepad as anyfile type and named it config.json
 - zip file with <Your_name>_config.zip ex. Jai_config.zip
 - send to line sanjai
+- After the first rebalance triggered, the bot was monitoring your port 24 hrs
