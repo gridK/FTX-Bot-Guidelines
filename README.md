@@ -1,9 +1,10 @@
 # FTX-Bot-Guidelines
+## Get Started with FTX Bot
+## 1. Create FTX account
+[Create your FTX account](https://ftx.com/#a=27149073)
 
-- create FTX account
-https://ftx.com/#a=27149073
+## 2. Transfer / buy your coins to main wallet
 
-- Transfer / buy your coins to main wallet
 - create subaccount in ftx
 - transfer only stable coin of the pair you want to trade to subaccount from your main wallet
 - extract API Key from subaccount setting
